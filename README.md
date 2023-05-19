@@ -6,4 +6,4 @@ Copy this rini folder into your vendor path, then simply go
 `import "vendor:rini";` in the odin file that gives a damn. 
 
 # original source
-[Ramon Santamaria made Rini, I just created this small bindings](https://github.com/raysan5/rini)
+[Ramon Santamaria made Rini, I just created this small binding](https://github.com/raysan5/rini)
