@@ -9,10 +9,6 @@ import "core:c";
 when ODIN_OS == .Windows {
 	foreign import lib {
 		"rini.lib",
-		"system:Winmm.lib",
-		"system:Gdi32.lib",
-		"system:User32.lib",
-		"system:Shell32.lib",
 	}
 }
 
